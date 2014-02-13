@@ -5,7 +5,6 @@ The [mruby](https://github.com/mruby/mruby) Unofficial Logo
 
 ![Logo](https://raw.github.com/h2so5/mruby-logo/master/circuit/png/mruby_logo.png)
 ![Logo](https://raw.github.com/h2so5/mruby-logo/master/lego/png/mruby_logo_red.png)
-![Logo](https://raw.github.com/h2so5/mruby-logo/master/lego/png/mruby_logo_white.png)
 
 ##Font
 The "mruby" typography uses __Fredoka One__.
