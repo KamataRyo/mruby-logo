@@ -17,4 +17,4 @@ You can download __Fredoka One__ from [Google Web Fonts](https://www.google.com/
 
 To the extent possible under law, h2so5 has waived all copyright and related or neighboring rights to mruby-logo.
 
-__note: CC0 does not apply to the "mruby" typography__
+note: __Fredoka One__ is __NOT__ CC0
