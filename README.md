@@ -1,7 +1,7 @@
 mruby-logo
 ==========
 
-The [mruby](https://github.com/mruby/mruby) ~~Un~~official Logo
+The [mruby](https://github.com/mruby/mruby) Official Logo
 
 ![Logo](https://raw.github.com/h2so5/mruby-logo/master/lego/png/mruby_logo_red.png)
 
